@@ -64,3 +64,5 @@ SCeVE: A Component-based Framework to Author Mixed Reality Tours:
 Exploring interaction techniques for 360 panoramas inside a 3D reconstructed scene for mixed reality remote collaboration (Journal on Multimodal User Interfaces-2020): 
     https://link.springer.com/article/10.1007/s12193-020-00343-x
 
+https://docs.unity3d.com/ScriptReference/WebCamTexture.html
+
