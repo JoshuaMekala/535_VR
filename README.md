@@ -12,19 +12,25 @@
 
 **Block Diagram:**
 
-**Hardware Requirements:** Ricoh Theta Z1, HTC vive cosmos elite VR headset, vive trackers
+
+**Hardware Requirements:** 
+    - Ricoh Theta Z1
+    - HTC vive cosmos elite VR headset
+    - vive trackers
 
 **Software Requirements:**  
-Ricoh Theta UVC driver 
-  - for usb streaming to PC and VR Unity
-  - Environment to stream the 360 camera. SteamVR plugin/SDK
-  - Utilizes necessary plugins.
-Virtual Reality Toolkit for Unity 
-  - Allows VR development to work in Unity
-Skybox shaders
-  - Renders the 360 livestream into a video that can then be displayed to the VR user. 
-Vive Tracker Utility
-  - Allows the user to utilize the vive trackers, and place VR objects on the tracker. 
+    Ricoh Theta UVC driver 
+      - for usb streaming to PC and VR 
+    Unity
+      - Environment to stream the 360 camera. 
+    SteamVR plugin/SDK
+      - Utilizes necessary plugins.
+    Virtual Reality Toolkit for Unity 
+      - Allows VR development to work in Unity
+    Skybox shaders
+      - Renders the 360 livestream into a video that can then be displayed to the VR user. 
+    Vive Tracker Utility
+      - Allows the user to utilize the vive trackers, and place VR objects on the tracker. 
 
 Team Members responsibilities:
 
@@ -52,7 +58,8 @@ How to make a 360 environment in Unity:
 Augmented Virtual Teleportation for High-Fidelity Telecollaboration: 
     https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8998353
 
-SCeVE: A Component-based Framework to Author Mixed Reality Tours: https://dl.acm.org/doi/pdf/10.1145/3377353
+SCeVE: A Component-based Framework to Author Mixed Reality Tours: 
+    https://dl.acm.org/doi/pdf/10.1145/3377353
 
 Exploring interaction techniques for 360 panoramas inside a 3D reconstructed scene for mixed reality remote collaboration (Journal on Multimodal User Interfaces-2020): 
     https://link.springer.com/article/10.1007/s12193-020-00343-x
