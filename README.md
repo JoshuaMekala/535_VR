@@ -10,47 +10,48 @@
     Attach a tracker to a physical object and attach a virtual augmentation to its corresponding view.
     Track the virtual object when its physical counterpart moves.
 
-**Block Diagram:**
+**Block Diagram:**  
+![image](https://github.com/user-attachments/assets/9f4a1055-2d96-4a10-aa49-0fae1402d19e)
 
 
-**Hardware Requirements:** 
-    - Ricoh Theta Z1
-    - HTC vive cosmos elite VR headset
-    - vive trackers
+**Hardware Requirements:**   
+    - Ricoh Theta Z1  
+    - HTC vive cosmos elite VR headset  
+    - vive trackers  
 
 **Software Requirements:**  
     Ricoh Theta UVC driver 
-      - for usb streaming to PC and VR 
+      - for usb streaming to PC and VR   
     Unity
-      - Environment to stream the 360 camera. 
+      - Environment to stream the 360 camera.   
     SteamVR plugin/SDK
-      - Talks to tracker to create virtual objects at the tracker specified position.
+      - Talks to tracker to create virtual objects at the tracker specified position.  
     Virtual Reality Toolkit for Unity 
-      - Allows VR development to work in Unity.
+      - Allows VR development to work in Unity.  
     Skybox shaders
-      - Renders the 360 livestream into a video that can then be displayed to the VR user. 
+      - Renders the 360 livestream into a video that can then be displayed to the VR user.   
     Vive Tracker Utility
-      - Allows the user to utilize the vive trackers, and place VR objects on the tracker. 
+      - Allows the user to utilize the vive trackers, and place VR objects on the tracker.   
 
 **Team Members responsibilities**:
 
-Josh (Video setup and Capture Lead):
-    Stream the 360-video from the Ricoh Theta Z1 to the HTC Vive.
-    Find the lowest latency method of actually streaming it, whether that be through USB, or WiFi. 
-    Assist with the vive tracker/virtual object creation/overlay.
+Josh (Video setup and Capture Lead):  
+    - Stream the 360-video from the Ricoh Theta Z1 to the HTC Vive.  
+    - Find the lowest latency method of actually streaming it, whether that be through USB, or WiFi.   
+    - Assist with the vive tracker/virtual object creation/overlay.  
 
-John (Unity and VR overlay lead):
-    Setup the VR environment in Unity
-    Map the 360 video to the Unity environment utilizing Skybox shaders.
-    Assist with the vive tracker/virtual object creation/overlay.
+John (Unity and VR overlay lead):  
+    - Setup the VR environment in Unity  
+    - Map the 360 video to the Unity environment utilizing Skybox shaders.  
+    - Assist with the vive tracker/virtual object creation/overlay.  
 
-Cam (Object Tracking and Interaction Lead):
-    Set up to track physical objects with Vive Trackers. 
-    Ensure the virtual objects are synced with the real-world objects. 
+Cam (Object Tracking and Interaction Lead):  
+    - Set up to track physical objects with Vive Trackers.   
+    - Ensure the virtual objects are synced with the real-world objects.   
 
 **Project timeline:** 
 
-**References:**
+**References:**  
 
 How to make a 360 environment in Unity: 
     https://www.youtube.com/watch?v=eaqwszsH6Jg
