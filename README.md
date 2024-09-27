@@ -32,7 +32,7 @@
     Vive Tracker Utility
       - Allows the user to utilize the vive trackers, and place VR objects on the tracker. 
 
-Team Members responsibilities:
+**Team Members responsibilities**:
 
 Josh (Video setup and Capture Lead):
     Stream the 360-video from the Ricoh Theta Z1 to the HTC Vive.
