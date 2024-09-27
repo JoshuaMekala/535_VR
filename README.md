@@ -24,7 +24,7 @@
     Unity
       - Environment to stream the 360 camera. 
     SteamVR plugin/SDK
-      - Utilizes necessary plugins.
+      - Talks to tracker to create virtual objects at the tracker specified position.
     Virtual Reality Toolkit for Unity 
       - Allows VR development to work in Unity.
     Skybox shaders
