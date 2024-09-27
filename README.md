@@ -48,9 +48,9 @@ Cam (Object Tracking and Interaction Lead):
     Set up to track physical objects with Vive Trackers. 
     Ensure the virtual objects are synced with the real-world objects. 
 
-Project timeline: 
+**Project timeline:** 
 
-References:
+**References:**
 
 How to make a 360 environment in Unity: 
     https://www.youtube.com/watch?v=eaqwszsH6Jg
