@@ -26,7 +26,7 @@
     SteamVR plugin/SDK
       - Utilizes necessary plugins.
     Virtual Reality Toolkit for Unity 
-      - Allows VR development to work in Unity
+      - Allows VR development to work in Unity.
     Skybox shaders
       - Renders the 360 livestream into a video that can then be displayed to the VR user. 
     Vive Tracker Utility
