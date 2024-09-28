@@ -50,6 +50,13 @@ Cam (Object Tracking and Interaction Lead):
     - Ensure the virtual objects are synced with the real-world objects.   
 
 **Project timeline:** 
+Project timeline: 
+September 29: Project proposal deadline
+October 12: Premliminary research done
+October 20: Basic Unity environment
+November 10: 3D camera integrated into Unity using Vive Media Decoder plugin
+November 20: VIVE tracker integrated into environment using XR plugin
+December 1: Final integration
 
 **References:**  
 
