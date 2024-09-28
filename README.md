@@ -31,8 +31,9 @@
     Skybox shaders
       - Renders the 360 livestream into a video that can then be displayed to the VR user.   
     Vive Tracker Utility
-      - Allows the user to utilize the vive trackers, and place VR objects on the tracker.   
-
+      - Allows the user to utilize the vive trackers, and place VR objects on the tracker.  
+    C#
+      - Language utilized for the Unity environment.  
 **Team Members responsibilities**:
 
 Josh (Video setup and Capture Lead):  
